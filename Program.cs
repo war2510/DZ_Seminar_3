@@ -41,4 +41,28 @@
             Console.WriteLine($"В массиве {evenCount} чётных чисел.");
         }
 
-        
+//  Задайте массив из вещественных чисел с ненулевой дробной частью. Найдите разницу между максимальным и минимальным элементов массива.\
+ {
+            double[] realNumbers = { 3.14, 2.71, 1.618, 0.577, 4.669, 1.732, 2.718, 3.142, 1.414, 2.236 };
+
+            // Находим максимальный и минимальный элементы массива
+            double maxElement = realNumbers[0];
+            double minElement = realNumbers[0];
+
+            foreach (double num in realNumbers)
+            {
+                if (num > maxElement)
+                {
+                    maxElement = num;
+                }
+                if (num < minElement)
+                {
+                    minElement = num;
+                }
+            }
+
+            // Вычисляем разницу между максимальным и минимальным элементами
+            double difference = maxElement - minElement;
+
+            Console.WriteLine($"Разница между максимальным и минимальным элементами: {difference}");
+        }
