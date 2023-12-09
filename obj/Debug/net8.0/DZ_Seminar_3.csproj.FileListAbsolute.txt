@@ -1,0 +1,14 @@
+C:\Users\igor\Desktop\DZ_Seminar_3\bin\Debug\net8.0\DZ_Seminar_3.exe
+C:\Users\igor\Desktop\DZ_Seminar_3\bin\Debug\net8.0\DZ_Seminar_3.deps.json
+C:\Users\igor\Desktop\DZ_Seminar_3\bin\Debug\net8.0\DZ_Seminar_3.runtimeconfig.json
+C:\Users\igor\Desktop\DZ_Seminar_3\bin\Debug\net8.0\DZ_Seminar_3.dll
+C:\Users\igor\Desktop\DZ_Seminar_3\bin\Debug\net8.0\DZ_Seminar_3.pdb
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.AssemblyInfo.cs
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.dll
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\refint\DZ_Seminar_3.dll
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.pdb
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\DZ_Seminar_3.genruntimeconfig.cache
+C:\Users\igor\Desktop\DZ_Seminar_3\obj\Debug\net8.0\ref\DZ_Seminar_3.dll
